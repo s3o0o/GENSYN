@@ -2,3 +2,4 @@
 Commit 2 - Added project documentation
 Commit 3 - Updated configuration files
 Commit 4 - Implemented core functionality
+Commit 5 - Added error handling
